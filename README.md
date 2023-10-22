@@ -1,8 +1,8 @@
 # Lecture-1-
 
--- Introduction to Anaconda -- 
--- Introduction to Jupyter Notebook -- 
--- Introduction to Visual Studio Code -- 
+Introduction to Anaconda
+Introduction to Jupyter Notebook
+Introduction to Visual Studio Code 
 
 Libraries in this lecture : 
 Numpy / Pandas
