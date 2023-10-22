@@ -1,6 +1,6 @@
 # Lecture-1-
 
-Introduction to Anaconda / Introduction to Jupyter Notebook / Introduction to Visual Studio Code 
+Python for Finance
 
 Libraries in this lecture : 
 Numpy / Pandas
