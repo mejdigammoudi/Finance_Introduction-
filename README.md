@@ -4,7 +4,7 @@
 -- Introduction to Visual Studio Code -- 
 
 Libraries in this lecture : 
-Numpy / Pandas / 
+Numpy / Pandas
 
 Python codes : 
 1) Calculating Net Present Value (NPV)
