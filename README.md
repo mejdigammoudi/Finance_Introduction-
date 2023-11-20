@@ -1,9 +1,6 @@
-# Lecture-1-
+# Introduction - Python for Finance
 
-Python for Finance
-
-Libraries in this lecture : 
-Numpy / Pandas
+Libraries : Numpy / Pandas
 
 Python codes : 
 1) Calculating Net Present Value (NPV)
