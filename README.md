@@ -1,4 +1,4 @@
-# Introduction-python-for-finance
+# Finance-Introduction 
 
 Libraries : Numpy / Pandas
 
